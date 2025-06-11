@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Vishnujaisri123.github.io/   ",
+  "homepage": "https://Vishnujaisri123.github.io/drone-showcase-website",
   "name": "futuristic-drone-website",
   "private": true,
   "version": "0.0.0",
@@ -13,8 +13,8 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "@react-three/drei": "^9.96.1",
-    "@react-three/fiber": "^8.15.16",
+    "@react-three/drei": "^9.122.0",
+    "@react-three/fiber": "^8.18.0",
     "framer-motion": "^11.0.3",
     "gh-pages": "^6.3.0",
     "gsap": "^3.12.5",
